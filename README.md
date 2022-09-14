@@ -1,16 +1,11 @@
 # aula07_lista_filmes
 
-A new Flutter project.
+Disciplina SI21405 - Projeto para Dispositivos Móveis (T01)
 
-## Getting Started
+[Aula 07](https://ember-feeling-d46.notion.site/Aula-7-14-09-2022-f320405691d94e59a6653614ad1d33ae)
 
-This project is a starting point for a Flutter application.
+Para usar esse app, se registre no [The Movie Data Base](https://www.themoviedb.org/) 
 
-A few resources to get you started if this is your first Flutter project:
+Desenvolvido sobre a v3 da The movie database
+[API TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
